@@ -7,6 +7,11 @@ Week 4: Neural Networks and it's Applications
 Week 5: Cost Function and Backpropogation and Applications of Neural Networks
 
 Along with this I've another 4 assignments. These assignments containing Machine Learning Problems of:
-1. Python and 
+1. Basic Python and Github
+2. Linear Regression
+3. Logistic Regression
+4. Neural Network
+
+As I've completed all the basics required to learn Neural Network and most probably from the next time we will start working on projects in group.
 
 
