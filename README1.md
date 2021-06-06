@@ -19,6 +19,7 @@ As I've completed all the basics required to learn Neural Network and most proba
 
 Checkpoint 2:
 During second phase of project completed with the remaining work in phase 1, like completed Assignment 4. And after that completed Andrew NG's basic course on Neural Network ans Deep Learning of 4 weeks, during which I covered following topics:
+
  1.Binary Classification using Logistic Regression
  2.Neural Netwoks Basics 
  3.Shallow Neural Network
