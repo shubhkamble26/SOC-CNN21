@@ -21,8 +21,11 @@ Checkpoint 2:
 During second phase of project completed with the remaining work in phase 1, like completed Assignment 4. And after that completed Andrew NG's basic course on Neural Network ans Deep Learning of 4 weeks, during which I covered following topics:
 
  1.Binary Classification using Logistic Regression
- 2.Neural Netwoks Basics 
+ 
+ 2.Neural Netwoks Basics
+ 
  3.Shallow Neural Network
+ 
  4.Deep Neural Network
 
 After that I chose a topic of Image Super Resolution for group project under mentor Sahasra Ranjan. In the first session of paper discussion sahasra gave brief introduction of paper and asked to implement Simple CNN using tutorial shared and go through some concepts like PCA, DCT and YCrCb and RGB and go through Bicubic interpolation.These are prerequisites for final project to be done in next phase.  
